@@ -66,12 +66,3 @@ PS: As a former PowerShell MVP, I know only one true default shell on all operat
 <p align="center">
   <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=itpropro&theme=dark&show_icons=true" />
 </p>
-
-<p align="center">
-  <span>
-    <a href="https://mvp.microsoft.com/en-us/PublicProfile/5001967"><img alt="Azure MVP" src="https://img.shields.io/badge/Azure-MVP-blue?logo=microsoftazure" /></a>
-    <a href="https://github.com/itpropro"><img alt="GitHub" src="https://img.shields.io/github/followers/itpropro?label=Follow&logo=GitHub" /></a>
-    <a href="https://twitter.com/jandamaschke"><img alt="Twitter" src="https://img.shields.io/twitter/follow/jandamaschke?style=flat&logo=Twitter&label=Follow" /></a>
-    <a href="https://www.itinsights.org"><img alt="Blog" src="https://img.shields.io/badge/Blog-IT--Insights-blue" /></a>
-  </span>
-</p>
