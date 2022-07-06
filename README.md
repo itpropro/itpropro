@@ -57,9 +57,9 @@ PS: As a former PowerShell MVP, there is only one true default shell on all oper
 </p>
 
 <p align="center">
-  <a href="https://docs.microsoft.com/en-us/azure/architecture/framework"><img alt="Well-Architected Framework" src="https://img.shields.io/badge/Well--Architected%20Framework-Architecture-blue" /></a>
-  <a href="https://docs.microsoft.com/en-us/azure/architecture/guide"><img alt="Architecture Center" src="https://img.shields.io/badge/Architecture%20Center-Application%20Architecture-blue" /></a>
-  <a href="https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/overview"><img alt="Cloud journey" src="https://img.shields.io/badge/Cloud%20Adoption%20Framework-Cloud%20Journey-blue" /></a>
+  <a href="https://docs.microsoft.com/en-us/azure/architecture/framework?WT.mc_id=AZ-MVP-5003494"><img alt="Well-Architected Framework" src="https://img.shields.io/badge/Well--Architected%20Framework-Architecture-blue" /></a>
+  <a href="https://docs.microsoft.com/en-us/azure/architecture/guide?WT.mc_id=AZ-MVP-5003494"><img alt="Architecture Center" src="https://img.shields.io/badge/Architecture%20Center-Application%20Architecture-blue" /></a>
+  <a href="https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/overview?WT.mc_id=AZ-MVP-5003494"><img alt="Cloud journey" src="https://img.shields.io/badge/Cloud%20Adoption%20Framework-Cloud%20Journey-blue" /></a>
   <a href="https://landscape.cncf.io/"><img alt="Azure MVP" src="https://img.shields.io/badge/CNCF-Landscape-blue?logo=cncf" /></a>
 </p>
 
