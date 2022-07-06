@@ -9,7 +9,7 @@ I am interested in modern Web Development strategies and technologies as well as
 PS: As a former PowerShell MVP, I know only one true default shell on all operating systems (Windows, Linux/Unix, MacOS) :wink:
 
 <p align="center">
-  <h3 align="center">Contact</h3>
+  <h3 align="center">Links/Contact</h3>
 </p>
 
 <p align="center">  
