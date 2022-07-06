@@ -6,7 +6,7 @@ I work on projects with serverless/cloud native architecture, cloud migrations, 
 
 I am interested in modern Web Development strategies and technologies as well as everything Serverless, JAMStack and Automation with CI/CD.
 
-PS: As a former PowerShell MVP, there is only one true default shell on all operating systems (Windows, Linux/Unix, MacOS) :wink:
+PS: As a former PowerShell MVP, I know only one true default shell on all operating systems (Windows, Linux/Unix, MacOS) :wink:
 
 <p align="center">
   <h3 align="center">Contact</h3>
