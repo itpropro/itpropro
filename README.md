@@ -2,7 +2,7 @@
 
 I am Jan-Henrik, 
 a Microsoft Azure MVP and Senior Cloud Architect. I am the CTO of [@VisorianGmbH](https://twitter.com/visoriangmbh).
-I can help with serverless/cloud native architecture, cloud migrations, cloud native development and strategies to implement all these reliable at enterprise scale.
+I work on projects with serverless/cloud native architecture, cloud migrations, cloud native development, cloud security as well as cloud journey and vendor/architecture reviews. My main job is to help companies implementing all of these reliable at enterprise scale.
 
 I am interested in modern Web Development strategies and technologies as well as everything Serverless, JAMStack and Automation with CI/CD.
 
